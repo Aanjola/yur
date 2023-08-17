@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(96, 120, 161);
+}
+
+
+hr {
+    border-color: rgb(168, 197, 197);
+}
+
+
+h2 {
+    color: rgb(117, 175, 225);
+    text-shadow: 4px 6px rgb(162, 84, 162);
+}
